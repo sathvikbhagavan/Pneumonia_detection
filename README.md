@@ -1,4 +1,4 @@
-# Pneumonia_detection
+# Pneumonia Detection
 
 
 ## Pneumonia detection by classification of Chest X-ray Images.
