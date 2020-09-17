@@ -7,7 +7,7 @@ from PIL import Image
 import cv2
 
 
-model = tf.keras.models.load_model('pneumonia-detection.h5')
+model = tf.keras.models.load_model('pneumonia_detection.h5')
 print('Loaded model from disk')
 
 def preprocess(image):
