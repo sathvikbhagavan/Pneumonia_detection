@@ -3,7 +3,6 @@ import streamlit as st
 import numpy as np
 from io import BytesIO
 import io
-from PIL import Image
 import cv2
 
 
