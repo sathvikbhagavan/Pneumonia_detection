@@ -14,3 +14,5 @@ Made a web application in streamlit where you can upload Chest X-ray Image to ch
 To run this web application, download the code, check all the requirements and run:
 
 ### streamlit run pneumonia_detection_webapp.py
+
+The model is trained to achieve ~92% Train accuracy and ~93% Test accuracy
