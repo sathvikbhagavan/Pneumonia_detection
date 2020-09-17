@@ -7,7 +7,7 @@ Dataset can be found at : https://www.kaggle.com/paultimothymooney/chest-xray-pn
 
 Requirements to run this code: 
 
-Tensorflow >= 2.0, OpenCV, Streamlit
+Tensorflow >= 2.0, OpenCV, Streamlit, Numpy
 
 Made a web application in streamlit where you can upload Chest X-ray Image to check what is the model's prediction
 
